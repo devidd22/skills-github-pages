@@ -1,10 +1,10 @@
 ---
-title: "First-blog"
+title: "First-blog(Primul blog)"
 date: 2025-07-29
 ---
 
 <h2>
-  <font color = "cyan">
+  <font color = "#91903d">
     <center>
       Ia sa vedem ce ne iese, daca iese ceva
     </center>
